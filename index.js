@@ -1,1 +1,3 @@
 /***** START ******/
+
+console.log("Hallo!")
